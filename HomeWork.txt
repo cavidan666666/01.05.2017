@@ -1,0 +1,57 @@
+deyisenler bir komputer programinda manipulyasiya edile bilen informasiyalri saxlamq ucun istifade edilir.
+Onlar hemcinin aciqlayiqlayici bir adla etiktlemenin yolunu teqdim edir bele olduqda programlar oxucular terefinden daha aydin basa dusulecekdir.
+Deyisenlerin tek meqsedi datalari yaddasda saxlamaqdir
+Deyisenler numerik ve ya string vayukarini temsil edir ve xususi data tipleri ve ya etiketlerle beyan edilir;
+Deyisen proqramlarinizi idare ede bilen saxlama alanina verilen bir addir
+
+Deyisenlerini "var" acar sounun komeyi ile yaradiriq sora ad verilir ve value teyin edilir:
+
+
+
+
+
+Operator konkret riyazi ve ya mentiqi manipulyasiya yerine yetirmeye kompilyatoru gosteren 
+operatorlarin 3 novu var
+
+riyazi operatorlar
+mentiqi operatorlar
+serti operatorlar
+-------------------
+Riyazi operatorlar
+-------------------
+Riyazi operatorlar hesablamalar aparmaq ucun istifade olunur:
+riyazi operatorlar bulardir : / , + , - , * :
+
+meselcun iki eded daxil etsez onun riyazi hesablamasini qaytaracaq;
+
+---------------------
+mentiqi operatorlar :
+---------------------
+
+mentiqi operatorlar boolean netice qaytaran operatorlardir 
+mentiqi operatorlar proqram axinina nezaret etmek ucun istifade olunur , onlari qavramaq asandir 
+mentiqi operatorlar bir proqramin birden cox serte esaslanaraq qerar vermesine icaze verilir;
+
+hemcinin mentiqi operatorlar vacib operatolrdir
+olar bize seraite esaslanan qerarlar qebul etmekde yardimci olur
+
+mentiqi emeliyatlar heyata kecirmekmucun mentiqi operatorlar vardir ; ( ve ya)|| , &&(ve)
+
+
+
+
+
+
+
+sert operatorlari bir cox sahede istifade olunur mentiqi operatorlara benzesede ekvalent deyildir
+
+
+
+
+
+
+            
+
+
+
+
